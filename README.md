@@ -1,4 +1,4 @@
-# seeallstuff_bot
+@seeallstuff_bot
 
 Бот написан на асинхронной библиотеке aiogram с использованием сторонних API.
 Из бота я убрал свой токен, вставить его можно в bot_load.bat, строка set TOKEN=token .
