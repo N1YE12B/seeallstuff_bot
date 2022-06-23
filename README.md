@@ -11,7 +11,7 @@
 
 ![image](https://user-images.githubusercontent.com/80113075/175287825-e0b8427c-5670-4752-8482-f0b55ecdb45c.png)
 
-Узнаём провайдера, страну и регино по IP.
+Узнаём провайдера, страну и регион по IP.
 
 ![image](https://user-images.githubusercontent.com/80113075/175288218-d122eba4-6596-4517-a8fb-15480a5e0c85.png)
 
